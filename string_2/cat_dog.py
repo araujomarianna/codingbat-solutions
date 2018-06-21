@@ -6,7 +6,7 @@ def cat_dog(str):
     This function checks if "cat" and "dog" appears in a given string the same number os times.
 
     :param str: It receives a string that contains "cat" and "dog"
-    :type str: String
+    :type str: str
     :return: It returns True if "cat" and "dog" appears the same number of times, otherwise False
     :rtype: bool
     """
